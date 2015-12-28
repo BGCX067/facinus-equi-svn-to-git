@@ -1,0 +1,6 @@
+#summary Random bits of useful information; links - data - snippits etc
+
+= Useful links to the project =
+
+*Automating Metasploit*
+ * http://blog.metasploit.com/2010/03/automating-metasploit-console.html
